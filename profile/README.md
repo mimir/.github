@@ -5,7 +5,7 @@
 ## Learn More
 
 - 📖 **Full documentation** → [mimir.github.io](https://mimir.github.io)
-- 🔌 **Plugin registry** → [MimIR Plugin Registry](https://github.com/mimir/plugins)
+- 🔌 **Plugin registry** → [MimIR Plugin Registry](https://mimir.github.io/plugins)
 - 💻 **Main repository** → [mimir/mimir](https://github.com/mimir/mimir)
 
 ## Quick Links
