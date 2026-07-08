@@ -7,7 +7,7 @@
 - 📖 **Full documentation** → [mimir.github.io](https://mimir.github.io)
 - 🔌 **Plugin registry** → [MimIR Plugin Registry](https://mimir.github.io/plugins)
 - 💻 **MimIR repository** → [mimir/mimir](https://github.com/mimir/mimir)
-- 🧾 **Mean repository** → [mimir/mimir](https://github.com/mimir/mean)
+- 🧾 **Mean repository** → [mimir/mean](https://github.com/mimir/mean)
 
 ## Quick Links
 
