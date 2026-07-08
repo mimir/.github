@@ -6,11 +6,12 @@
 
 - 📖 **Full documentation** → [mimir.github.io](https://mimir.github.io)
 - 🔌 **Plugin registry** → [MimIR Plugin Registry](https://mimir.github.io/plugins)
-- 💻 **Main repository** → [mimir/mimir](https://github.com/mimir/mimir)
+- 💻 **MimIR repository** → [mimir/mimir](https://github.com/mimir/mimir)
+- 🧾 **Mean repository** → [mimir/mimir](https://github.com/mimir/mean)
 
 ## Quick Links
 
 - [Getting Started](https://mimir.github.io/cli.html)
-- [Architecture & Design](https://mimir.github.io/dev.html)
+- [A Tour of MimIR](https://mimir.github.io/mimir.html)
 - [Building & Testing](https://mimir.github.io/dev.html#building)
 - [Plugin Development](https://mimir.github.io/plugins.html)
