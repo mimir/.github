@@ -11,7 +11,7 @@
 
 ## Quick Links
 
-- [Getting Started](https://mimir.github.io/cli.html)
 - [A Tour of MimIR](https://mimir.github.io/mimir.html)
+- [Mim CLI](https://mimir.github.io/cli.html)
 - [Building & Testing](https://mimir.github.io/dev.html#building)
 - [Plugin Development](https://mimir.github.io/plugins.html)
