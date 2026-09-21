@@ -11,6 +11,7 @@
 
 ## Quick Links
 
+- [MimIR Playground}(https://mimir.github.io/playground/index.html)
 - [A Tour of MimIR](https://mimir.github.io/mimir.html)
 - [Mim CLI](https://mimir.github.io/cli.html)
 - [Building & Testing](https://mimir.github.io/dev.html#building)
